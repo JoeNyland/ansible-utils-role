@@ -11,6 +11,5 @@ galaxy_info:
       - bookworm # 12 (stable)
       - bullseye # 11 (oldstable)
       - buster # 10 (oldoldstable)
-      - stretch # 9
   galaxy_tags: []
 dependencies: []
